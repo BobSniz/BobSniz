@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @BobSniz
 - 👀 I’m interested in Cyber Security
-- 🌱 I’m currently learning Computer Security and Forensics 
+- 🌱 I’m currently undertaking a bachelor's degree in 
+Computer Security and Forensics 
 - 💞️ I’m looking to collaborate on security and grey hat hacking.
 - 📫 How to reach me ; robertsneeze05@gmail.com
 
